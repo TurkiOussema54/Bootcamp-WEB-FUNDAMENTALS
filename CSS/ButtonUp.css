@@ -1,0 +1,32 @@
+
+.Search{
+    border-color: aqua;
+    border-radius: 25px;
+    width: 120px;
+    height: auto;
+    color: aqua;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+
+}
+
+.Plus{
+
+    background-color: aquamarine;
+    border-color: aquamarine;
+    border-radius: 50%;
+    color: aliceblue;
+    padding: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.createAccount{
+    background-color: rgb(4, 130, 233);
+    border-color:black;
+    color: aliceblue;
+    padding: 5px 20px 5px 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px black;
+}

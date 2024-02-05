@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: whitesmoke;
+    width: 1300px;
+
+}
+
+/* Styling navigation bar */
+.nav {
+    background-color: gray;
+    color: whitesmoke;
+    height: 85px;
+    width: 1200px;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+/* styling links */
+.nav-links {
+
+    width: 50%;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+
+}
+
+.nav a {
+
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.nav-title {
+
+    margin: 30px;
+}
+
+.btn {
+
+    height: 35px;
+    width: 100px;
+    background-color: cornflowerblue;
+    color: black;
+    border: none;
+    font-size: 16px;
+    box-shadow: 5px 5px;
+
+}
+
+/* ------------------------------------- */
+
+.xxx {
+    display: inline-block;
+}
+.yyy{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.zzz{display: inline-block;
+
+}
+
+.block1 {
+    width: 700px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cardBlock {
+    width: 100%;
+    background-color: white;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    overflow: hidden;
+}
+
+.cardHeader {
+    background-color: rgb(59, 148, 189);
+    height: 130px;
+    margin-bottom: 60px;
+}
+
+.block2 {
+    padding: 20px;
+}
+
+.block2 h1 {
+    margin: 20px 0px;
+}
+
+.card-body h2 {
+    margin: 20px 0px;
+}
+
+.card-body h3 {
+    margin: 20px 0px;
+}
+
+.card-body p {
+    margin: 20px 0px;
+}
+
+.Circle {
+    border-radius: 50%;
+    background-color: white;
+    height: 190px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.Map {
+    height: 20px;
+}
+
+a {
+    color: #3a81e6;
+}
+
+/* styling connection */
+.Circle2 {
+    border-radius: 50%;
+    background-color: white;
+    height: 50px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.block3 {
+    display: flex;
+    align-items: end;
+    flex-direction: column;
+    border-color: grey;
+    border-width: 2px;
+    /* width: 700px; */
+    margin-left: 30px;
+}
+
+.circle3 {
+    border-radius: 50%;
+    background-color: white;
+    height: 35px;
+    padding: 5px;
+    margin-top: px;
+    margin-left: 5px;
+}
+
+.Requests {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+.paragraphe, .connections, .Requests{
+    border-style:solid;
+    border-color:grey;
+}
+/* .connectionRequests{
+    width: 260px; */
+}
+.connectionRequests h3 {
+    width: 260px;
+    padding: 25px;
+    background-color: black;
+    color: antiquewhite;}
+
+.yourconnection h3 {
+    padding: 25px;
+    background-color: black;
+    color: antiquewhite;}
+    
+.Education h3 {
+    padding: 25px;
+    background-color: black;
+    color: antiquewhite;}
+
+.Education{
+    width: 700px;
+    margin-left: 30px;
+    padding-right: 290px;
+}

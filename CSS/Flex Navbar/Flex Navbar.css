@@ -1,0 +1,45 @@
+
+/* Styling navigation bar */
+.nav{
+    background-color: gray;
+    color: whitesmoke;
+    height: 85px;
+    width: 950px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+/* styling links */
+.nav-links{
+
+    width: 50%;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-around;
+
+}
+
+.nav a{
+
+    color: whitesmoke;
+    text-decoration: none;
+}
+.nav-title{
+
+    margin: 30px;
+}
+
+.btn{
+
+    height: 35px;
+    width: 100px;
+    background-color: cornflowerblue;
+    color: black;
+    border: none;
+    font-size: 16px;
+    box-shadow: 5px 5px;
+
+}
+
